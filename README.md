@@ -14,5 +14,5 @@ Python | SQL | Pandas | NumPy | Matplotlib | Seaborn | Power BI | HTML | CSS
 - Customer Behavior Analysis  
 
 ## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/aamirahamed07) | aamira.07@example.com
+[LinkedIn](www.linkedin.com/in/aamir-ahamed1910) | AamirAhamed
 
