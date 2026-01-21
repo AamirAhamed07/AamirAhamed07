@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Aamir Ahamed
 
-<!--
-**AamirAhamed07/AamirAhamed07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3nd-year AI & Data Science student. I love working with **data, building projects, and learning new tech**.  
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Excel & Python
+- SQL & Databases  
+- Power BI & Dashboards  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+Python | SQL | Pandas | NumPy | Matplotlib | Seaborn | Power BI | HTML | CSS  
+
+## 📂 Projects
+- Customer Behavior Analysis  
+
+## 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/aamirahamed07) | aamira.07@example.com
+
