@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Aamir Ahamed
 
-I'm a 3nd-year AI & Data Science student. I love working with **data, building projects, and learning new tech**.  
+I'm a final year AI & Data Science student. I love working with **data, building projects, and learning new tech**.  
 
 ## 🌱 Currently Learning
 - Excel & Python
